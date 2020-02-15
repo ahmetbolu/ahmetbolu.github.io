@@ -1,6 +1,6 @@
 # <a href="https://ahmetbolu.github.io" target="_blank">ahmetbolu.github.io</a>
 
-## WEB DEVELOPER & DESIGNER
+## Web Developer & Designer
 
 <ul class="icons">
 <li><a href="https://www.facebook.com/abits" rel="noopener noreferrer" target="_blank" class="fa-facebook">Facebook</a></li>
