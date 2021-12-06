@@ -89,6 +89,7 @@
 			        var options = {
 			            facebook: "", // Facebook page ID
 			            whatsapp: "+90 555 646 4946", // WhatsApp number
+			            telegram: "ahmetbolu", // Telegram
 			            sms: "+90 555 646 4946", // Sms phone number
 			            call: "+90 555 646 4946", // Call phone number
 			            email: "bolu.tr@gmail.com", // Email
@@ -97,7 +98,7 @@
 			            call_to_action: "Merhaba", // Call to action
 			            button_color: "#FF6550", // Color of button
 			            position: "right", // Position may be 'right' or 'left'
-			            order: "call,sms,whatsapp,email", // Order of buttons
+			            order: "whatsapp,telegram", // Order of buttons
 			        };
 			        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
 			        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
